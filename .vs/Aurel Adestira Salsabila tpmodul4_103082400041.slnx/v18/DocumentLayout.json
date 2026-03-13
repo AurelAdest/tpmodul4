@@ -3,14 +3,18 @@
   "WorkspaceRootPath": "D:\\tugas_alpro\\Semester4\\Aurel Adestira Salsabila tpmodul4_103082400041\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7D0BFEE-798C-4B23-A7CF-77B074C1B98A}|Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041.csproj|d:\\tugas_alpro\\semester4\\aurel adestira salsabila tpmodul4_103082400041\\aurel adestira salsabila tpmodul4_103082400041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7D0BFEE-798C-4B23-A7CF-77B074C1B98A}|Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041.csproj|solutionrelative:aurel adestira salsabila tpmodul4_103082400041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5132E12F-EA97-73A4-0A69-0C8D000901F7}|Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041.csproj|d:\\tugas_alpro\\semester4\\aurel adestira salsabila tpmodul4_103082400041\\aurel adestira salsabila tpmodul4_103082400041\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5132E12F-EA97-73A4-0A69-0C8D000901F7}|Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041.csproj|solutionrelative:aurel adestira salsabila tpmodul4_103082400041\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5132E12F-EA97-73A4-0A69-0C8D000901F7}|Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041.csproj|d:\\tugas_alpro\\semester4\\aurel adestira salsabila tpmodul4_103082400041\\aurel adestira salsabila tpmodul4_103082400041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5132E12F-EA97-73A4-0A69-0C8D000901F7}|Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041.csproj|solutionrelative:aurel adestira salsabila tpmodul4_103082400041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "D:\\tugas_alpro\\Semester4\\Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041\\KodePos.cs",
+              "RelativeDocumentMoniker": "Aurel Adestira Salsabila tpmodul4_103082400041\\KodePos.cs",
+              "ToolTip": "D:\\tugas_alpro\\Semester4\\Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041\\KodePos.cs",
+              "RelativeToolTip": "Aurel Adestira Salsabila tpmodul4_103082400041\\KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:50:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\tugas_alpro\\Semester4\\Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041\\Program.cs",
               "RelativeDocumentMoniker": "Aurel Adestira Salsabila tpmodul4_103082400041\\Program.cs",
               "ToolTip": "D:\\tugas_alpro\\Semester4\\Aurel Adestira Salsabila tpmodul4_103082400041\\Aurel Adestira Salsabila tpmodul4_103082400041\\Program.cs",
               "RelativeToolTip": "Aurel Adestira Salsabila tpmodul4_103082400041\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T06:30:59.115Z",
               "EditorCaption": ""
